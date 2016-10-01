@@ -1,1 +1,1 @@
-MN Daily faculty salary app
+MN Daily faculty salary app (A work in progress)
